@@ -11,7 +11,7 @@ namespace Shared
 
         public int PersonalQuarryCost = 1000;
         public int FactionQuarryCost = 2000;
-        public int QuarryRewardCount = 50;
+        public int QuarryRewardCount = 10;
 
         public int PersonalSawmillCost = 1000;
         public int FactionSawmillCost = 2000;
